@@ -1,6 +1,6 @@
-# 📱 Projeto Rede Sociais (Curso em Vídeo)
+# 📱 Projeto Rede Sociais 
 
-Este projeto foi desenvolvido durante o curso de **HTML5 e CSS3** do [Curso em Vídeo](https://www.cursoemvideo.com/) com o professor **Gustavo Guanabara**.
+Este projeto foi desenvolvido durante o curso de **HTML5 e CSS3** com o professor **Gustavo Guanabara**.
 
 ## 🔗 Sobre o projeto
 
@@ -38,4 +38,4 @@ O projeto está publicado no **GitHub Pages** e pode ser acessado aqui:
 ---
 ## 📚 Créditos
 
-Projeto desenvolvido como prática do curso de **HTML5 e CSS3** do [Curso em Vídeo](https://www.cursoemvideo.com/), com o professor [Gustavo Guanabara](https://github.com/gustavoguanabara).
+Projeto desenvolvido como prática do curso de **HTML5 e CSS3** do [Curso em Vídeo](https://www.cursoemvideo.com/).
